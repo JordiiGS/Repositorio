@@ -8,5 +8,21 @@
 
 ## Prueba 2
 
-![Es una imagen!](E90.JPG)
+![Es una imagen!](/E90.JPG)
+
+## Prueba 3
+
+código:
+
+<html>
+<head>
+</head>
+</html>
+
+Eso es codigo html
+
+## TUX
+
+
+
 
