@@ -8,7 +8,7 @@
 
 ## Prueba 2
 
-![Es una imagen!](/E90.JPG)
+![Es una imagen!](/E90.png)
 
 ## Prueba 3
 
