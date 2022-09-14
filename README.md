@@ -12,14 +12,14 @@
 
 ## Prueba 3
 
-código:
+-código:
 
-<html>
+ ``  <html>
    <head>
      <title>Test</title>
-  </head>
+  </head> ``
 
-Eso es codigo html
+Eso es codigo html ..
 
 ## TUX
 
