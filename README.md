@@ -15,9 +15,9 @@
 código:
 
 <html>
-  <head>
+   <head>
+     <title>Test</title>
   </head>
-</html>
 
 Eso es codigo html
 
