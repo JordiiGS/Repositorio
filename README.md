@@ -12,13 +12,13 @@
 
 ## Prueba 3
 
--código:
-
- ``  <html>
+- código:
+```html
+   <html>
    <head>
      <title>Test</title>
-  </head> ``
-
+  </head> 
+```
 Eso es codigo html ..
 
 ## TUX
