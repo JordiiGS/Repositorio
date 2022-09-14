@@ -8,5 +8,5 @@
 
 ## Prueba 2
 
-![Es una imagen ]
+![Es una imagen!](E90.JPG)
 
