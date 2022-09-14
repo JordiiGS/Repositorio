@@ -15,8 +15,8 @@
 código:
 
 <html>
-<head>
-</head>
+  <head>
+  </head>
 </html>
 
 Eso es codigo html
